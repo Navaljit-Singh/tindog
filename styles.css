@@ -135,7 +135,7 @@ p{
     color: slategray;
 }
 /* mobile_friendly */
-@media (max-width:600px){
+@media (max-width:1080px){
 
     #title{
         text-align: center;
